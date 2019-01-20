@@ -1,12 +1,16 @@
 # Papy quotes mobile application
 
+This is the official "Papy Quotes" mobile application for Android and iOS.
 
-installation detailed here
+It is build over React Native. For more technical information, please read :
 ```
 open https://facebook.github.io/react-native/docs/getting-started
 ```
 
-# Run
+# Install
+* Install npm
+
+# Build & Run
 
 ## iOS
 
